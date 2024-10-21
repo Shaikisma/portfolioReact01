@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "iPhone-14-Pro-Landing-Page",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " Website similar to Apple iPhone 14’s landing page which is built using React.js, WebGi, Three.js, GSAP ScrollTrigger..",
+    url: "https://iphonelanding-ten.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Register-and-login-news",
+    description:"Created a login page with PHP, HTML, CSS, and JavaScript, where users authenticate to access a webpage displaying dynamic newspaper content.",
+   
+    url: "https://github.com/Shaikisma/Register-and-login-news.git",
   },
   {
-    title: "My Resume Site",
+    title: "MCQGameApp",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Built an MCQ Game App using React and JavaScript, allowing users to answer multiple-choice questions with real-time feedback and score tracking.",
+    url: "https://mcq-game-kappa.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "EcommerceReactApp",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed an Ecommerce platform using React and Next.js, integrated with multiple APIs and a database to handle dynamic product listings, user authentication, and transactions.",
+    url: "https://ecommerce-react-tau-five.vercel.app/",
   },
 ];
 
